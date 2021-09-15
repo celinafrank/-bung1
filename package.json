@@ -1,0 +1,14 @@
+{
+  "name": "this-i-excercise-1",
+  "version": "1.0.0",
+  "description": "my first package by SEW",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "CF",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
